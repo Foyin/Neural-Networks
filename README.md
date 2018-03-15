@@ -14,6 +14,9 @@ The perceptron algorithm:-
 2. Sum all the weights for the inputs
 3. Compute output of perceptron based on the sum passed through the activation function
 
+Bias:- An input to a perceptron(or node) used to resolve situations where the output result is the same no matter the input
+(usually set to 1)
+
 Activation funtion:-
 A function that returns a -1 or +1 based on the inputs and weights of the perceptron
 
